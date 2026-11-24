@@ -1,0 +1,4 @@
+*.zip
+*.msi
+extracted/
+build/
